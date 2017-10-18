@@ -11,8 +11,8 @@ All you need to do to enable this extension is to import it in your project.
         import iota_fees
 
 After importing, the functionality of the default IOTA library will be extended and accept a "fee" parameter as an
-input for sending transactions. Sending little fees might influence your karma, while increasing will make your 
-wallet you quick(ly poor).
+input for sending transactions. **Sending little fees might influence your karma, while increasing will make your 
+wallet you quick(ly poor).**
 
 ```
     # Connect to IOTA node
