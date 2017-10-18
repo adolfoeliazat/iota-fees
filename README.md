@@ -1,5 +1,5 @@
 
-# IOTA Fees extension
+# IOTA Fees (Extension Module)
 This extension library for IOTA allows for setting transaction fees, in order to make IOTA 
 a fully accepted crypto currency and to increase acceptance of your business towards customers.
 
@@ -37,6 +37,8 @@ input for sending transactions.
         fees  = 1000000  # The fee to send along with the transfer can be set
     )
 ```
+
+See sample.py for a working sample.
   
 ## Installation
 1) Install Python3
