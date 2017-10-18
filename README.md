@@ -1,17 +1,19 @@
 
-# IOTA Fees (Extension Module)
-This extension library for IOTA allows for setting transaction fees, in order to make IOTA 
-a fully acceptable crypto currency and to increase acceptance of your business towards customers.
+# IOTA-Fees IXI (IOTA eXtensible Interface module)
+This extension module for IOTA allows for setting transaction fees, in order to make IOTA 
+a fully acceptable and competitive crypto currency. Furthermore, have guarantee to increase acceptance of your business towards customers.
 
-Fees are sent to me and I might take care of wasting some electricity to back the network, in exchange.
+Fees are sent to me and I (might) take care of wasting electricity to back the ledger network, in exchange. For every fee, I gonna leave my PC on over night (43,2 kiloseconds!!).
+
+Try it out now! It works as simple as great!
 
 ## Usage
-All you need to do to enable this extension is to import it in your project.
+All you need to do to enable this extension module is to import it in your IOTA Python project.
 
         import iota_fees
 
 After importing, the functionality of the default IOTA library will be extended and accept a "fee" parameter as an
-input for sending transactions. **Submitting little fees might influence your karma, while increasing will make your 
+input for sending transactions. **Submitting little fees might hurt your karma or make you FOMO, while increasing will make your 
 wallet you quick(ly poor).**
 
 ```
