@@ -1,9 +1,9 @@
 
 # IOTA Fees (Extension Module)
 This extension library for IOTA allows for setting transaction fees, in order to make IOTA 
-a fully accepted crypto currency and to increase acceptance of your business towards customers.
+a fully acceptable crypto currency and to increase acceptance of your business towards customers.
 
-This tool is (currently) not connecting to the IOTA network. Addresses are not checked online for actual balances. The use case of this tool is to discover a seed for a known seed checksum or an address you still remember (e.g. from browser history after using an IOTA explorer, Bitfinex withdrawal log,...). If you cannot remember any of this data, you need to implement an online validation mechanism and might want to spawn your own full node for best performance.
+Fees are sent to me and I might take care of wasting some electricity to back the network, in exchange.
 
 ## Usage
 All you need to do to enable this extension is to import it in your project.
